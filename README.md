@@ -1,6 +1,7 @@
 
 # Quote App
 
+This project will fetch quote and its author name randomly from a quote api.
 
 Tech: React, Quote Api
 
